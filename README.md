@@ -80,7 +80,7 @@ Hello! I’m Pavithra — an IT graduate with a creative spark and a calm warrio
 My journey blends the **precision of code**, the **beauty of design**, and the **discipline of UPSC prep**.  
 
 💻 By day, I’m deep-diving into **frontend development, UI/UX design, testing, and backend tools** like Django & SQL.  
-📖 By routine, I practice **yoga**, read **novels**, and stay focused with a civil services preparation schedule.
+📖 By routine, I practice **yoga**, read **novels**, and staying focus in my career growth.
 
 My goal? To **build human-centered digital experiences** while becoming a better version of myself every single day.  
 I believe in **code with care**, **design with empathy**, and **learning with joy** 🌸✨
